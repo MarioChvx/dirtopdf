@@ -23,3 +23,9 @@ The path of the directory where you want to save the new pdf.
 Show this message and exit.
 
 ## Examples
+
+To convert the directory `~/photos` to pdf and save it in the home directory.
+
+```bash
+[user @ desktop ~]$ dirtopdf --source photos --destiny .
+```
